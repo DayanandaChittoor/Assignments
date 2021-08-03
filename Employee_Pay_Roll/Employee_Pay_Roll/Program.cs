@@ -15,21 +15,24 @@ namespace Employee_Pay_Roll
             int workStatus = rand.Next(0, 3);
             Console.WriteLine(workStatus);
             ///Ctrl + R+R
-            if (workStatus == 1)
+            switch (workStatus)
             {
-                Console.WriteLine("Employee is Present!");
-                dailyWage = perHourWage * HOURS_WORKED;
+                case 0:
+                    Console.WriteLine("Employee is Absent");
+                    break;
+                case 1:
+                    Console.WriteLine("Employee is Present");
+                    dailyWage = perHourWage * HOURS_WORKED;
+                    break;
+                case 2:
+                    Console.WriteLine("Employee worked part time");
+                    dailyWage = perHourWage * PART_TIME_HOURS;
+                    break;
+                default:
+                    Console.WriteLine("Something Wrong Happened");
+                    break;
             }
-            else if (workStatus == 2)
-            {
-                Console.WriteLine("Employee worked for part time");
-                dailyWage = perHourWage * PART_TIME_HOURS;
-            }
-            else
-            {
-                Console.WriteLine("Employee is Absent");
-            }
-            Console.WriteLine("Daily Wage of Employee:" + dailyWage);
+            Console.WriteLine("Total daily Wage earned " + dailyWage);
         }
     }
 }
