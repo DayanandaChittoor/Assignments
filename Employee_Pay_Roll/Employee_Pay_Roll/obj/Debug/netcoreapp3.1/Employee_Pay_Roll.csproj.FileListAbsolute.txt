@@ -1,0 +1,13 @@
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\obj\Debug\netcoreapp3.1\Employee_Pay_Roll.AssemblyInfoInputs.cache
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\obj\Debug\netcoreapp3.1\Employee_Pay_Roll.AssemblyInfo.cs
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\obj\Debug\netcoreapp3.1\Employee_Pay_Roll.csproj.CoreCompileInputs.cache
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\obj\Debug\netcoreapp3.1\Employee_Pay_Roll.csproj.AssemblyReference.cache
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\bin\Debug\netcoreapp3.1\Employee_Pay_Roll.exe
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\bin\Debug\netcoreapp3.1\Employee_Pay_Roll.deps.json
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\bin\Debug\netcoreapp3.1\Employee_Pay_Roll.runtimeconfig.json
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\bin\Debug\netcoreapp3.1\Employee_Pay_Roll.runtimeconfig.dev.json
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\bin\Debug\netcoreapp3.1\Employee_Pay_Roll.dll
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\bin\Debug\netcoreapp3.1\Employee_Pay_Roll.pdb
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\obj\Debug\netcoreapp3.1\Employee_Pay_Roll.dll
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\obj\Debug\netcoreapp3.1\Employee_Pay_Roll.pdb
+C:\Users\dayas\Assignments\Employee_Pay_Roll\Employee_Pay_Roll\obj\Debug\netcoreapp3.1\Employee_Pay_Roll.genruntimeconfig.cache
